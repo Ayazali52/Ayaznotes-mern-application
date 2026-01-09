@@ -1,0 +1,6 @@
+
+{
+  "name": "Ayaznotes - Full-Stack Experience",
+  "description": "A high-performance, Notion-inspired notes application featuring markdown support, real-time search, tag filtering, and a secure auth-simulated experience.",
+  "requestFramePermissions": []
+}
